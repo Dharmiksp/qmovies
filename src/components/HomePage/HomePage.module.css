@@ -1,0 +1,17 @@
+.content {
+  color: gray;
+  text-align: center;
+  /* background: chartreuse; */
+  margin-top: 80px;
+}
+
+.detail {
+  color: whitesmoke;
+  text-align: left;
+  margin-top: 25px;
+  font-size: large;
+}
+/* 
+.margin {
+  margin-top: 180px;
+} */
